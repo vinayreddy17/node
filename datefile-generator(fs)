@@ -1,1 +1,2 @@
-
+In this project I  used the fs.write and fs.read commands and basic express command to write a basic api when called modifies or reads the folders .
+I tested it by pushing requests through postman
